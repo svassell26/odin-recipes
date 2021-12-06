@@ -1,0 +1,68 @@
+body {
+  margin: 60px;
+  background-color: #eaded6;
+}
+
+h1 {
+  text-align: center;
+  font-size: 55px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #5a2a33;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  height: 550px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #dc747d;
+}
+
+h3 {
+  text-align: center;
+}
+
+.description {
+  text-align: center;
+  width: 55%;
+  margin: auto;
+  margin-top: 60px;
+  border-bottom: 1px solid #5a2a33;
+}
+
+.ingredients {
+  margin: auto;
+  margin-top: 80px;
+  border-bottom: 1px solid #5a2a33;
+  width: 55%;
+}
+
+ul {
+  line-height: 30px;
+  display: table;
+  margin: 0 auto;
+}
+
+.steps {
+  margin: auto;
+  margin-top: 80px;
+  border-bottom: 1px solid #5a2a33;
+  width: 55%;
+}
+
+ol {
+  line-height: 30px;
+  display: table;
+  margin: 0 auto;
+}
+
+li {
+  margin-bottom: 20px;
+}
